@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89" started-at="2017-02-20T13:08:38Z" finished-at="2017-02-20T13:08:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89" started-at="2017-02-20T13:08:38Z" finished-at="2017-02-20T13:08:38Z">
+      <class name="com.test.JsonFileReading">
+        <test-method status="PASS" signature="readingData()[pri:0, instance:com.test.JsonFileReading@4566e5bd]" name="readingData" duration-ms="43" started-at="2017-02-20T18:38:38Z" finished-at="2017-02-20T18:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readingData -->
+      </class> <!-- com.test.JsonFileReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
